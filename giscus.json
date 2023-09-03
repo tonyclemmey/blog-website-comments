@@ -1,0 +1,10 @@
+{
+  "origins": [
+    "https://code.tonyclemmeydesign.co.uk",
+    "https://code.tcdesignio.co.uk"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "newest"
+}
